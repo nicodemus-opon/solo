@@ -1,0 +1,22 @@
+{
+  "short_name": "Solo",
+  "name": "Finobu Solo",
+  "description": "Finance software for freelancers",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/images/logo2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "overview?utm_source=homescreen",
+  "background_color": "#2E0433",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2E0433"
+}
